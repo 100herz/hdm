@@ -68,7 +68,7 @@
     "@types/react-portal": "4.0.2",
     "@types/react-scroll": "1.8.2",
     "@types/react-stickynode": "3.0.1",
-    "@types/react-transition-group": "4.4.0",
+    "@types/react-transition-group": "4.4.1",
     "@types/styled-components": "5.1.7",
     "autoprefixer": "10.2.4",
     "babel-jest": "26.6.3",
