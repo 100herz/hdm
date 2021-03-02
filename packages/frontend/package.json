@@ -46,7 +46,7 @@
     "react-scroll": "1.8.1",
     "react-stickynode": "3.0.4",
     "react-transition-group": "4.4.1",
-    "tailwindcss": "2.0.2"
+    "tailwindcss": "2.0.3"
   },
   "devDependencies": {
     "@commitlint/cli": "11.0.0",
