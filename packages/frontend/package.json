@@ -81,7 +81,7 @@
     "postcss-import": "14.0.0",
     "postcss-preset-env": "6.7.0",
     "rimraf": "3.0.2",
-    "semantic-release": "17.3.9",
+    "semantic-release": "17.4.2",
     "ts-jest": "26.5.1",
     "ts-node": "9.1.1",
     "typescript": "4.1.5"
